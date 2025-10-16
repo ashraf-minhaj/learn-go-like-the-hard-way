@@ -25,21 +25,21 @@ You’ll write **50 hands-on programs**, each small enough to understand, yet po
 
 ## 🗂️ Project Layout
 
+```
 learn-go-the-hard-way/
-├── README.md
-├── part1_basics/
-│   ├── ex01_hello.go
-│   ├── ex02_comments.go
-│   └── ...
-├── part2_functions/
-│   ├── ex11_functions.go
-│   └── ...
-├── part3_realworld/
-│   └── ...
-└── part4_devops/
-└── ...
-
-````
+    ├── README.md
+    ├── part1_basics/
+    │   ├── ex01_hello.go
+    │   ├── ex02_comments.go
+    │   └── ...
+    ├── part2_functions/
+    │   ├── ex11_functions.go
+    │   └── ...
+    ├── part3_realworld/
+    │   └── ...
+    └── part4_devops/
+    └── ...
+```
 
 Run any example:
 
